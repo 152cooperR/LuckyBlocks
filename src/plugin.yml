@@ -1,0 +1,4 @@
+name: BereaLuckyBlocks
+version: 1.0
+main: me.NathanSDK.LuckyBlocks.Main
+description: Spawns Lucky Blocks!
